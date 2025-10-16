@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gcodenowski
 - 👀 I’m interested in becoming a computer sciencist
-- 🌱 I’m currently learning the basics of C++
+- 🌱 I’m currently learning Python and Java
 - 📫 How to reach me - gilbertkozanowski@gmail.com      
 - 😄 Pronouns: he/him
 
