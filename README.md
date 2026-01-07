@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @gcodenowski
-- 👀 I’m interested in becoming a computer sciencist
-- 🌱 I’m currently learning Python and Java
-- 📫 How to reach me - gilbertkozanowski@gmail.com      
-- 😄 Pronouns: he/him
+Hi! I'm Gilbert, I study MSc Computer Science student in England. 
 
+Currently learning:
+- Java
+- ZSH
+- Python
 
 <!---
 gcodenowski/gcodenowski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
