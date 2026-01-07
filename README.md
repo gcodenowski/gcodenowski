@@ -1,4 +1,4 @@
-Hi! I'm Gilbert, I study MSc Computer Science student in England. 
+Hi! I'm Gilbert, I'm studying for MSc Computer Science in England. 
 
 Currently learning:
 - Java
