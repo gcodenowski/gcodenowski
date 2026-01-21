@@ -4,6 +4,7 @@ Currently learning:
 - Java
 - ZSH
 - Python
+- nvim
 
 <!---
 gcodenowski/gcodenowski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
