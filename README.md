@@ -2,7 +2,7 @@ Hi! I'm Gilbert, I'm studying for MSc Computer Science in England.
 
 Currently learning:
 - Java
-- CLI
+- shell
 - Python
 - nvim
 
